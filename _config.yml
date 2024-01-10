@@ -1,1 +1,4 @@
-
+title: Keith D. Smith
+#logo: /assets/img/<filename>
+show_downloads: true
+theme: jekyll-theme-minimal
