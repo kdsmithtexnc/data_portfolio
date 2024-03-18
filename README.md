@@ -1,5 +1,5 @@
 # Keith D. Smith
-![Bio-Photo](images/Keith-Smith.jpeg)
+![logo](images/Keith-Smith.jpeg)
 ### Data Scientist
 
 ## Projects
