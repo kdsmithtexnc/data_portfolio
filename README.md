@@ -5,23 +5,23 @@
 ## Projects
 
 ## Skills
-*Python
-*R
-*SAS
-*Matlab/GNU Octave
-*NLP
-*Computer Vision
-*Statistical Analysis
-*TensorFlow
-*PyTorch
-*AWS
-*Docker
-*Git
-*Tableau
-*Shiny
-*Multilingual
-*Communication
-*Leadership
+* Python
+* R
+* SAS
+* Matlab/GNU Octave
+* NLP
+* Computer Vision
+* Statistical Analysis
+* TensorFlow
+* PyTorch
+* AWS
+* Docker
+* Git
+* Tableau
+* Shiny
+* Multilingual
+* Communication
+* Leadership
 
 ## Education
 ### PhD 2023-2026
@@ -38,13 +38,13 @@ Mathematics with Data Science Concentration
 ### Data Scientist
 Greene, Wilson, Crow & Smith, P.A.
 2022-Present
-*Responsbile for Creating and Maintaining KPIs
-*Created and Maintained KPI Dashboard with Tableau
-*Overhauled Accounts Receivable and Monitored with Analytics
+* Responsbile for Creating and Maintaining KPIs
+* Created and Maintained KPI Dashboard with Tableau
+* Overhauled Accounts Receivable and Monitored with Analytics
 ### Paralegal Manager
 Greene, Wilson, Crow & Smith, P.A.
 2015-Present
-*Managed Criminal Law Division
-*Responsible for Substantive Legal Research and Writing 
-*Managed Federal and State Felony Cases
+* Managed Criminal Law Division
+* Responsible for Substantive Legal Research and Writing 
+* Managed Federal and State Felony Cases
 
